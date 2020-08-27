@@ -7,6 +7,6 @@
     { "name": "fodselsnummer", "type": "string" },
     { "name": "virksomhetsnummer", "type": "string" },
     { "name": "behovForBistandFraNav", "type": "boolean" },
-    { "name": "opprettet", "type": "long" }
+    { "name": "opprettet", "type": "int", "logicalType": "date"}
   ]
 }
