@@ -4,7 +4,7 @@ on:
     branches:
       - master
     paths:
-      - 'src/main/avro/oppfolgingsplan_lps.avsc'
+      - 'src/main/avro/oppfolgingsplan_lps_nav.avsc'
       - 'gradle.properties'
 
 jobs:

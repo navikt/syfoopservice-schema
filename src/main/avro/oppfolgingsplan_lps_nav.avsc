@@ -1,7 +1,7 @@
 {
   "namespace": "no.nav.syfo.oppfolgingsplan.avro",
   "type": "record",
-  "name": "OppfolgingsplanLPS",
+  "name": "KOppfolgingsplanLPSNAV",
   "fields": [
     { "name": "uuid", "type": "string" },
     { "name": "fodselsnummer", "type": "string" },
